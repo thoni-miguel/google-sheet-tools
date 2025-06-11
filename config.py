@@ -1,0 +1,1 @@
+SPREADSHEET_NAME = "sample_people_data"
